@@ -7,9 +7,7 @@ class MiliConan(ConanFile):
     version = "17"
     license = "Boost Software License"
     url = "https://bitbucket.org/fudepan/mili"
-    description = ("MiLi is a collection of useful C++ libraries, composed only by headers. "
-                   "No installation, no makefile, no complications: just KISS. "
-                   "Simple solutions for simple problems.")
+    description = "A set of minimal libraries composed only by 1 header file each."
     no_copy_source = True
     exports_sources = ["LICENSE"]
 
