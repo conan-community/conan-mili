@@ -2,8 +2,8 @@
 
 ![conan-mili image](/images/conan-mili.png)
 
-[![Download](https://api.bintray.com/packages/conan-community/conan/mili%3Aconan/images/download.svg?version=5.13.0%3Astable)](https://bintray.com/conan-community/conan/mili%3Aconan/5.13.0%3Astable/link)
-[![Build Status](https://travis-ci.org/danimtb/conan-mili.svg?branch=stable%2F5.13.0)](https://travis-ci.org/danimtb/conan-mili)
+[![Download](https://api.bintray.com/packages/conan-community/conan/mili%3Aconan/images/download.svg?version=17%3Astable)](https://bintray.com/conan-community/conan/mili%3Aconan/17%3Astable/link)
+[![Build Status](https://travis-ci.org/conan-community/conan-mili.svg?branch=stable%2F17)](https://travis-ci.org/conan-community/conan-mili)
 
 [Conan.io](https://conan.io) package for [MiLi](https://bitbucket.org/fudepan/mili/overview) project.
 
