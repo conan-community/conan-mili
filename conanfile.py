@@ -1,12 +1,13 @@
-from conans import ConanFile, CMake, tools
 import os
+from conans import ConanFile, tools
 
 
 class MiliConan(ConanFile):
     name = "mili"
     version = "17"
-    license = "Boost Software License"
-    url = "https://bitbucket.org/fudepan/mili"
+    license = "BSL-1.0"
+    url = "https://github.com/conan-community/conan-mili/"
+    homepage = "https://bitbucket.org/fudepan/mili"
     description = "A set of minimal libraries composed only by 1 header file each."
     no_copy_source = True
     exports_sources = ["LICENSE"]
