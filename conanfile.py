@@ -10,6 +10,7 @@ class MiliConan(ConanFile):
     homepage = "https://bitbucket.org/fudepan/mili"
     description = "A set of minimal libraries composed only by 1 header file each."
     no_copy_source = True
+    deprecated = True
     exports_sources = ["LICENSE"]
 
     def source(self):

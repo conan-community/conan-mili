@@ -1,3 +1,7 @@
+## Package Deprecation Notice
+
+Mili is obsolete and will no longer be maintained.
+
 [![Download](https://api.bintray.com/packages/conan-community/conan/mili%3Aconan/images/download.svg) ](https://bintray.com/conan-community/conan/mili%3Aconan/_latestVersion)
 [![Build Status Travis](https://travis-ci.org/conan-community/conan-mili.svg)](https://travis-ci.org/conan-community/conan-mili)
 
